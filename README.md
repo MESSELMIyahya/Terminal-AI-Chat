@@ -70,9 +70,9 @@ Once the application is running, you can start chatting with the AI. Here are so
 ==================[Welcome To Terminal AI Chat]==================
 =================================================================
 
-Question -> hello , my name is Yahya Messlmi
+Question -> hello , my name is Yahya Messelmi
 
-MR.AI -> Hello Yahya Messlmi, it's nice to meet you. I am MR.AI. How can I help you today?
+MR.AI -> Hello Yahya Messelmi, it's nice to meet you. I am MR.AI. How can I help you today?
 
 Question ->  what is vue js ?
 
