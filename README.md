@@ -114,4 +114,4 @@ src/
 
 ## License
 
-ISC
+[MIT](LICENSE.md)
