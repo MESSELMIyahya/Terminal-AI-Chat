@@ -1,6 +1,7 @@
 {
   "name": "Terminal-AI-Chat",
   "version": "1.0.0",
+  "type": "module",
   "description": "A terminal AI chat built using Langchain.js",
   "main": "./dist/index.js",
   "scripts": {
@@ -12,6 +13,7 @@
   "author": "Yahya Messelmi",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^22.14.1",
     "nodemon": "^3.1.9",
     "ts-node": "^10.9.2"
   }
