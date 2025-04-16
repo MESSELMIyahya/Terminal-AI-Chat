@@ -21,7 +21,7 @@ A terminal-based AI chat application built using Langchain.js . This application
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Terminal-AI-Chat.git
+git clone https://github.com/MESSELMIyahya/Terminal-AI-Chat
 cd Terminal-AI-Chat
 ```
 
