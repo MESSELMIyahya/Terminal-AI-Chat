@@ -2,7 +2,7 @@
   "name": "Terminal-AI-Chat",
   "version": "1.0.0",
   "type": "module",
-  "description": "A terminal AI chat built using Langchain.js",
+  "description": "A terminal-based AI chat built using Langchain.js",
   "main": "./dist/index.js",
   "scripts": {
     "build": "tsc",
