@@ -70,6 +70,36 @@ When reporting issues, please include:
 - Actual behavior
 - Environment details (OS, Node version, etc.)
 
+## TODO & In-Progress Tasks
+
+### High Priority
+
+- [ ] Add unit tests for core functionality
+- [ ] Implement file-based memory system to persist conversations between sessions
+- [ ] Create memory management utilities for backup/restore
+
+### Medium Priority
+
+- [ ] Add support for more LLM providers
+- [ ] Implement error handling for API key validation
+- [ ] Create a configuration system for different AI models
+- [ ] Add support for multiple memory storage options (file, Redis, SQLite)
+- [ ] Improve the terminal chat interface
+- [ ] Add conversation history persistence
+- [ ] Implement rate limiting for API calls
+
+### Low Priority
+
+- [ ] Add syntax highlighting for code blocks
+- [ ] Implement conversation export/import
+
+### In Progress
+
+- [ ] Improving error messages and user feedback
+- [ ] Documentation updates and examples
+
+Feel free to pick up any of these tasks or suggest new ones by opening an issue!
+
 ## Questions?
 
 Feel free to open an issue if you have any questions about contributing to the project.
