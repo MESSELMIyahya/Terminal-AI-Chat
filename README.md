@@ -114,4 +114,4 @@ src/
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](https://github.com/MESSELMIyahya/Terminal-AI-Chat/blob/main/LICENSE)
