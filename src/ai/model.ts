@@ -13,5 +13,5 @@ export const AIModel = new ChatGoogleGenerativeAI({
   apiKey: process.env.MODEL_API_SECRET_KEY, // secret key
   model: "gemini-2.0-flash",
   maxOutputTokens: 2048,
-  temperature: 0,
+  temperature: 0.6,
 });
