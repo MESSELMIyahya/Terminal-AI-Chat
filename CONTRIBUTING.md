@@ -42,7 +42,7 @@ Thank you for your interest in contributing to Terminal AI Chat! This document p
 
 3. Run in development mode:
    ```bash
-   npm run dev
+   pnpm dev
    ```
 
 ## Code Style
