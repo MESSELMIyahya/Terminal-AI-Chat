@@ -13,7 +13,7 @@ A terminal-based AI chat application built using Langchain.js . This application
 ## Prerequisites
 
 - Node.js (v18 or higher)
-- npm or yarn
+- pnpm or npm
 - Google AI API key (Gemini) (Or any other LLM model e.g OpenIA)
 
 ## Installation
@@ -28,7 +28,7 @@ cd Terminal-AI-Chat
 2. Install dependencies:
 
 ```bash
-npm install
+pnpm install
 ```
 
 3. Create a `.env` file in the root directory and add your Google (Or any other LLM model ) AI API key:
@@ -44,7 +44,7 @@ MODEL_API_SECRET_KEY=your_google_ai_api_key_here
 To run the application in development mode (with hot reload):
 
 ```bash
-npm run dev
+pnpm dev
 ```
 
 ### Production Build
@@ -52,13 +52,13 @@ npm run dev
 To build the application for production:
 
 ```bash
-npm run build
+pnpm build
 ```
 
 To run the production build:
 
 ```bash
-npm start
+pnpm start
 ```
 
 ## Usage
