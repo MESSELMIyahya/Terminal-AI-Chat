@@ -102,16 +102,6 @@ src/
 └── index.ts        # Main application entry point
 ```
 
-## Dependencies
-
-- @langchain/core
-- @langchain/google-genai
-- dotenv
-- langchain
-- nodemon (dev)
-- ts-node (dev)
-- @types/node (dev)
-
 ## License
 
 [MIT](https://github.com/MESSELMIyahya/Terminal-AI-Chat/blob/main/LICENSE)
